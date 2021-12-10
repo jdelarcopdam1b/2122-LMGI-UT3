@@ -1,0 +1,46 @@
+html {
+    background-color: antiquewhite;
+}
+
+* {
+    color: tomato;
+}
+
+div#cabecera {
+    background-color: aqua;
+    padding: 20px;
+}
+
+div#body {
+    background-color: lightgray;
+    padding: 50px;
+}
+
+div#footer {
+    background-color: burlywood;
+    padding: 50px;
+}
+
+a {
+    color: blue;
+}
+
+table {
+    background-color: lightgreen;
+    border-color:black;
+    border-radius: 3%;
+    border-style: double;
+    margin-inline: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+tr, td, th {
+    border-style: dashed;
+    border-color: black;
+}
+
+img.landscape {
+    width: 100%;
+    height: 600px;
+}
